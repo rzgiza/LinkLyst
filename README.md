@@ -1,4 +1,4 @@
-# LynkList
+# LinkLyst
 
 ## Introduction
 
